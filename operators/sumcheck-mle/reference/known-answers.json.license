@@ -1,0 +1,17 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: Goldilocks Sumcheck/MLE Hardware Accelerator
+Chisel hardware for Sumcheck round coefficients, multilinear folding and evaluation.
+Repository: https://github.com/OpenRTL-Lab/sumcheck-mle-goldilocks
+File: operators/sumcheck-mle/reference/known-answers.json
+
+SPDX-FileCopyrightText: 2026 Goldilocks Sumcheck/MLE contributors
+Copyright applies to original project contributions only.
+Attribution: Nova mathematical examples, Microsoft Corporation, MIT;
+analytic_round is a project example. See docs/third-party-notices.en.md.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End

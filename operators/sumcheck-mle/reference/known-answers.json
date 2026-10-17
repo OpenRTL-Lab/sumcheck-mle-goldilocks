@@ -1,0 +1,83 @@
+{
+  "source": "https://github.com/microsoft/Nova/blob/main/src/spartan/polys/multilinear.rs",
+  "nova_mle": {
+    "table": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      2
+    ],
+    "point_lsb_first": [
+      1,
+      1,
+      1
+    ],
+    "expected": 2
+  },
+  "nova_constant": {
+    "table": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "point_lsb_first": [
+      1,
+      1,
+      1
+    ],
+    "expected": 5
+  },
+  "analytic_round": {
+    "n": 1,
+    "degrees": [
+      2,
+      2
+    ],
+    "lambda": [
+      2,
+      3
+    ],
+    "tables": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "coefficients": [
+      76,
+      92,
+      30
+    ],
+    "boolean_sum": 274,
+    "r": 2,
+    "folded": [
+      5,
+      8,
+      10,
+      10
+    ],
+    "q_r": 380
+  }
+}
+
